@@ -1,3 +1,4 @@
 - PHP
 - CSS
 - HTML Lanjut
+- Javascript dan Frameworknya
